@@ -1,0 +1,59 @@
+body,html {
+	margin:0;
+	background-color:white;
+}
+
+#header {
+	position:absolute;
+	top:67px;
+	height:87px;
+	left:50px;
+	right:50px;
+	
+	background:#ff6626;
+	
+}
+
+#menu {
+	position:absolute;
+	top:138px;
+	height:46px;
+	left:50px;
+	right:50px;
+	
+	background:#ffce0f;
+	
+}
+
+#H2 {
+	position:absolute;
+	top:200px;
+	height:305px;
+	left:50px;
+	right:1200px;
+	
+	background:#24cbff;
+}
+#H3 {
+	position:absolute;
+	top:200px;
+	height:305px;
+	left:240px;
+	right:50px;
+	
+	background:white 
+}
+
+
+
+
+
+#footer {
+	position:absolute;
+	top:502px;
+	height:46px;
+	left:50px;
+	right:50px;
+	
+	background:#1dfa5d;
+		
